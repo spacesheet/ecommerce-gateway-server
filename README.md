@@ -1,2 +1,2 @@
-# commerce-gateway-api
+# ecommerce-gateway-api
 E-Commerce GateWay
